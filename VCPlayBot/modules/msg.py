@@ -1,6 +1,7 @@
 import os
 from VCPlayBot.config import SOURCE_CODE,ASSISTANT_NAME,PROJECT_NAME,SUPPORT_GROUP,UPDATES_CHANNEL
 class Messages():
+      LOGO_IMG = "https://telegra.ph/file/c5ac64ba0d35133e4411c.jpg"
       START_MSG = """
 ❁═════════════════════❁
 HELLO ! [{}](tg://user?id={})!!**
